@@ -1,0 +1,13 @@
+PODS:
+  - Alamofire (3.5.0)
+  - Pushwoosh (4.1.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Pushwoosh
+
+SPEC CHECKSUMS:
+  Alamofire: b70a7352335f8ea5babd0a923eb7e8eacc67b877
+  Pushwoosh: ad63ff89be56b8c46a504d126dbe1cd1c2be1855
+
+COCOAPODS: 0.39.0
